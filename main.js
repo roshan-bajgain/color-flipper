@@ -15,3 +15,5 @@ btn.addEventListener("click", function(){
 function getrandomnumber(){
     return Math.floor(Math.random()*255);
 }
+
+hhlujili
